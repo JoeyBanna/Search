@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Search/Search/bin/Debug/net6.0/Search
+/Users/macbook/Projects/Search/Search/bin/Debug/net6.0/Search.deps.json
+/Users/macbook/Projects/Search/Search/bin/Debug/net6.0/Search.runtimeconfig.json
+/Users/macbook/Projects/Search/Search/bin/Debug/net6.0/Search.dll
+/Users/macbook/Projects/Search/Search/bin/Debug/net6.0/Search.pdb
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.AssemblyInfo.cs
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.dll
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/refint/Search.dll
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.pdb
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/Search.genruntimeconfig.cache
+/Users/macbook/Projects/Search/Search/obj/Debug/net6.0/ref/Search.dll
